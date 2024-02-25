@@ -18,12 +18,12 @@ pip install qrcode
 
 1. Clone o repositório:
 
-git clone https://github.com/seu-usuario/gerador-de-qr-code-python.git
+git clone https://github.com/Zekryy/Gerador-de-QRCode.git
 
 
 2. Navegue até o diretório do projeto:
 
-cd gerador-de-qr-code-python
+cd Gerador-de-QRCode
 
 
 3. Execute o script com os parâmetros desejados:
